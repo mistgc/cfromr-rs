@@ -1,3 +1,5 @@
+#define STB_IMAGE_IMPLEMENTATION
+
 #include "blurhash_encode.h"
 #include "stb_image.h"
 
